@@ -2,7 +2,7 @@
 
 ✨ ** Estudante de tecnologia ✨
 
-Estou em fase de apridizagem, cada dia entusiasmada para aprender, cheia de vontade e pesistencia!
+Estou em fase de apridizagem, cada dia dedicada em aprender, cheia de vontade e pesistencia!
 
 ** Estatisticas ** 
 
