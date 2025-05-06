@@ -1,27 +1,74 @@
-## Olá! eu sou Andreza (Drezsa) 
+# Olá! eu sou Andreza (Drezsa) 👩‍💻
 
-✨ ** Estudante de tecnologia ✨
+ **'Estudante de tecnologia'**
 
 Estou em fase de apridizagem, cada dia dedicada em aprender, cheia de vontade e pesistencia!
-
-** Estatisticas ** 
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Drezsa&show_icons=true&theme=radical)](https://github.com/Drezsa)
-
-** Linguagens mais usadas **
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Drezsa&layout=compact&theme=tokyonight)](https://github.com/Drezsa)
-
-<!--
-**Drezsa/Drezsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Estou em busca de uma vaga 
 - 🌱 Estudando PHP no momento...
 - 😄 Pronouns: ela/dela 
-<div>
-<a href="https://github.com/Drezsa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drezsa&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true)/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drezsa&layout=compact&langs_count=l6&theme=dracula"/>
-</div>
+---
+## 🤖 Linguagens e Tecnologias 
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img
+  align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img
+  align="left"
+  alt="SQLite"
+  title="SQLite"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+
+<img
+  align="left"
+  alt="PHP"
+  title="PHP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Drezsa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drezsa&theme=tokyonight&layout=compact&custom_title=Tecnologia&langs_count=9"
+  />
+</p>
+
+                    
+
+
+
+    
+
+
+
